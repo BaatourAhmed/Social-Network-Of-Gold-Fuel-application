@@ -1,0 +1,13 @@
+services\LikeService.class
+entity\Like.class
+interfaces\LikeServiceRemote.class
+interfaces\PostServiceRemote.class
+services\CommentService.class
+services\PostService.class
+interfaces\PostServiceLocal.class
+entity\Comment.class
+entity\Post.class
+interfaces\LikeServiceLocal.class
+interfaces\CommentServiceRemote.class
+entity\CategoryName.class
+interfaces\CommentServiceLocal.class
